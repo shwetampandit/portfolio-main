@@ -1,4 +1,5 @@
 import SkygazeImage from "@/assets/skygaze.png";
+import MicrositeImage from "@/assets/Microsite.png"
 // import TodoImage from "@/assets/todo.png";
 // import HyperlocalImage from "@/assets/dashboard-banner.png";
 import { StaticImageData } from "next/image";
@@ -145,7 +146,7 @@ export const DATA = {
         "Server-Side Rendering (SSR)",
         "Geographic Specific Pages (GSP)",
       ],
-      // IMAGE: MicrositeImage, // replace with actual image import
+      IMAGE: MicrositeImage, // replace with actual image import
       HIDDEN: false,
     },
     "Hyperlocal Marketing Platform": {
