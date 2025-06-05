@@ -3,6 +3,3 @@ User-agent: *
 
 # Allow everything else
 Allow: /
-
-# Sitemap
-Sitemap: https://utkarsh-singhal.tech/sitemap.xml

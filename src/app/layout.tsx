@@ -19,23 +19,12 @@ export const metadata: Metadata = {
     title: "Shweta Pandit | Frontend Developer",
     description:
       "Frontend developer specializing in Vue.js, React.js, TypeScript and Nuxt.js.. Experienced in building scalable, high-performance applications.",
-    url: "https://utkarsh-singhal.is-a.dev/",
+    url: "https://shwetampandit.netlify.app/",
     type: "website",
-    images: [
-      {
-        url: "https://utkarsh-singhal.is-a.dev/opengraph-image.png",
-        width: 1200,
-        height: 630,
-        alt: "Shweta Pandit | Frontend Developer",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
   },
-  // authors: [
-  //   { name: "Utkarsh Singhal", url: "https://utkarsh-singhal.is-a.dev/" },
-  // ],
   keywords: [
     "Shweta Pandit",
     "Frontend Developer",
@@ -51,9 +40,7 @@ export const metadata: Metadata = {
     "Firebase",
     "Tailwind CSS",
     "Web Development",
-  ],
-  // creator: "Utkarsh Singhal",
-  // publisher: "Utkarsh Singhal",
+  ]
 };
 
 export default function RootLayout({
