@@ -152,8 +152,8 @@ export const DATA = {
     },
     "Hyperlocal Marketing Platform": {
       SLUG: "hyperlocal-marketing-platform",
-      LIVE_PREVIEW: "https://example-hyperlocal-dashboard.vercel.app/", // replace with actual if any
-      GITHUB: "https://github.com/yourusername/hyperlocal-marketing-platform", // replace with actual if any
+      // LIVE_PREVIEW: "https://example-hyperlocal-dashboard.vercel.app/", // replace with actual if any
+      // GITHUB: "https://github.com/yourusername/hyperlocal-marketing-platform", // replace with actual if any
       DESCRIPTION: [
         "Developed a hyper-local marketing dashboard to enhance targeted advertising in specific areas.",
         "Implemented advanced features such as detailed analytics, location targeting, SEO optimizations, and IVR system integration.",

@@ -31,6 +31,7 @@ export function Projects({
                     {value.LIVE_PREVIEW && (
                       <a
                         className="flex items-center gap-1"
+                        target="_blank"
                         href={value.LIVE_PREVIEW}
                       >
                         live preview <ArrowUpRight size={18} />
