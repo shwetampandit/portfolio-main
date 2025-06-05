@@ -1,6 +1,6 @@
 "use client";
 
-import { MovingElement } from "@/components/navbar";
+import { MovingElement } from "@/components/navbar/moving-element";
 import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
