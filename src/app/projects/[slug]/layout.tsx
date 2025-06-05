@@ -1,5 +1,5 @@
 import { DATA, getProjectData } from "@/app/data";
-import { Navbar } from "@/components/sections";
+import { Navbar } from "@/components/sections/navbar";
 import { Metadata } from "next";
 
 export const revalidate = 604800;
