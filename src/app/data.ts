@@ -1,6 +1,4 @@
-import LibraryImage from "@/assets/library.png";
 import SkygazeImage from "@/assets/skygaze.png";
-import { Education } from "@/components/sections";
 // import TodoImage from "@/assets/todo.png";
 // import HyperlocalImage from "@/assets/dashboard-banner.png";
 import { StaticImageData } from "next/image";

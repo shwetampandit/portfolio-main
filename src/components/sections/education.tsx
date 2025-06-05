@@ -1,5 +1,3 @@
-import { ArrowUpRight } from "lucide-react";
-
 interface IBlogData {
   Degree: string;
   Duration: string;
