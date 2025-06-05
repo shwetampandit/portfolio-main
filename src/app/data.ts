@@ -1,7 +1,7 @@
 import SkygazeImage from "@/assets/skygaze.png";
 import MicrositeImage from "@/assets/Microsite.png"
 // import TodoImage from "@/assets/todo.png";
-// import HyperlocalImage from "@/assets/dashboard-banner.png";
+import HyperlocalImage from "@/assets/dashboard-banner.png";
 import { StaticImageData } from "next/image";
 import { cache } from "react";
 
@@ -169,7 +169,7 @@ export const DATA = {
         "Razorpay API",
         "IVR Integration",
       ],
-      // IMAGE: HyperlocalImage, // replace with actual image import or link
+      IMAGE: HyperlocalImage, // replace with actual image import or link
       HIDDEN: false,
     },
   },
