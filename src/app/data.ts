@@ -32,7 +32,7 @@ export const DATA = {
 
   ABOUT_ME: {
     INTRO:
-      "Hey! I'm a full-stack developer who loves building efficient, scalable, and intuitive applications. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences.",
+      "Hey! I'm a frontend developer with a strong interest in building modern, responsive web applications. I specialize in ReactJS, Next.js, Vue.js, and Nuxt.js, and enjoy turning ideas into smooth, intuitive digital experiences. I'm driven by a passion for clean architecture, performance optimization, and solving interface-level challenges. I'm constantly learning and evolving to stay aligned with the latest in web development.",
     EXPERTISE:
       "My expertise lies in ReactJS, NuxtJS, VueJS, JavaScript, TypeScript and ... technologies, and I enjoy working across the stack to bring ideas to life.",
   },
