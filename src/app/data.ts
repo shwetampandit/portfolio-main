@@ -172,6 +172,29 @@ export const DATA = {
       IMAGE: HyperlocalImage, // replace with actual image import or link
       HIDDEN: false,
     },
+    "DineTime": {
+      SLUG: "dine-time-js",
+      LIVE_PREVIEW: "", // add your deployed URL here
+      GITHUB: "", // add GitHub repo if available
+      DESCRIPTION: [
+        "A comprehensive restaurant booking mobile application built with React Native and Expo",
+        "Allows users to browse restaurants, view details, and book dining slots with real-time availability",
+        "Features guest booking functionality and user authentication with Firebase integration", 
+      ],
+      NOTE: "Cross-platform mobile app supporting both iOS and Android with modern UI/UX design",
+      TECH_STACK: [
+        "React Native",
+        "Expo",
+        "Firebase (Authentication & Firestore)",
+        "React Navigation",
+        "NativeWind (Tailwind CSS)",
+        "Formik & Yup (Form handling & validation)",
+        "AsyncStorage",
+        "Metro bundler"
+      ],
+      IMAGE: '', // replace with actual image import
+      HIDDEN: false,
+    },
   },
 
   ALL_PROJECTS: "https://github.com/shwetampandit",
